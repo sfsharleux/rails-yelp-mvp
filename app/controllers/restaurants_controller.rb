@@ -5,7 +5,10 @@ class RestaurantsController < ApplicationController
   def new
   end
 
-  def createedit
+  def create
+  end
+
+  def edit
   end
 
   def show
